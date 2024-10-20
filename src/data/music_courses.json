@@ -1,0 +1,63 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guiter Fundamentals",
+            "discription": "Learn how to play guitar",
+            "slug": "guiter-fundamentals",
+            "price": 10.99,
+            "instructor": "John Doe",
+            "isFeatured": true
+        },
+
+        {
+            "id": 2,
+            "title": "Piano Fundamentals",
+            "discription": "Learn how to play piano",
+            "slug": "piano-fundamentals",
+            "price": 12.99,
+            "instructor": "Alice Johnson",
+            "isFeatured": true
+            },
+
+        {
+            "id": 3,
+            "title": "Drumming Basics",
+            "discription": "Learn how to play drums",
+            "slug": "drumming-basics",
+            "price": 8.99,
+            "instructor": "Michael Johnson",
+            "isFeatured": true
+                },
+
+        {
+            "id": 4,
+            "title": "Violin Fundamentals",
+            "discription": "Learn how to play violin",
+            "slug": "violin-fundamentals",
+            "price": 20.99,
+            "instructor": "Sarah Williams",
+            "isFeatured": false
+        },
+
+        {
+            "id": 5,
+            "title": "Cello Fundamentals",
+            "discription": "Learn how to play cello ",
+            "slug": "cello-fundamentals",
+            "price": 12.99,
+            "instructor": "David Brown",
+            "isFeatured": true
+        },
+
+        {
+            "id": 6,
+            "title": "Flute Fundamentals",
+            "discription": "Learn how to play flute",
+            "slug": "flute-fundamentals",
+            "price": 18.99,
+            "instructor": "Emily Davis",
+            "isFeatured": false
+        }
+    ]
+}
